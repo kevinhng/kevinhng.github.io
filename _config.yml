@@ -4,11 +4,10 @@ author:
   email: binxkevin@gmx.de
 description: > # this means to ignore newlines until "show_excerpts:"
   Web & iOS Developer
+url: kevinhng.github.io
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
-
-# Build settings
-theme: kevins.io
 
 plugins:
   - jekyll-feed
