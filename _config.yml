@@ -1,0 +1,18 @@
+title: Kevin
+author:
+  name: Kevin Hoàng
+  email: binxkevin@gmx.de
+description: > # this means to ignore newlines until "show_excerpts:"
+  Web & iOS Developer
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Build settings
+theme: kevins.io
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-4CFHK22MGY
