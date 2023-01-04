@@ -55,6 +55,10 @@ input {
 	-webkit-appearance: none;
 }
 
+#name {
+	border: 1px solid #ccc;
+}
+
 #mail {
 	border: 1px solid #ccc;
 }
